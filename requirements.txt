@@ -1,0 +1,12 @@
+customtkinter==5.2.2
+darkdetect==0.8.0
+packaging==24.0
+pillow==10.3.0
+plyer==2.1.0
+psutil==6.0.0
+pystray==0.19.5
+pywin32==306
+schedule==1.2.2
+six==1.16.0
+tk==0.1.0
+watchdog==4.0.2
