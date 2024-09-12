@@ -1,6 +1,6 @@
 # Recycle_Bin_Feature
 
-⚠️To run the code you must install the requirements if you want easy way to install requirements. Read more here:⚠️ 
+⚠️⚠️⚠️To run the code you must install the requirements if you want easy way to install requirements. Read more here:⚠️⚠️⚠️
  # https://www.freecodecamp.org/news/python-requirementstxt-explained/
 
 
