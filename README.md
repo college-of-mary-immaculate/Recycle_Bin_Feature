@@ -18,3 +18,6 @@ tkinter - A binary module that contains the low-level interface to Tcl/Tk.
 
 # Contributors:
 Bedaña, Christian Joy M. and Ignacio, Ljay Shrine
+
+# Install: 
+pyinstaller --name RecycleBinManager --windowed --icon=icon ico Recycle_Bin_V1.4.py
